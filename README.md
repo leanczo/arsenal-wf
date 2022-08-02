@@ -1,2 +1,3 @@
-# arsenal-wf
-A simple watch face for Connect IQ Store
+# Simple Arsenal
+
+![Preview](./preview.png)
